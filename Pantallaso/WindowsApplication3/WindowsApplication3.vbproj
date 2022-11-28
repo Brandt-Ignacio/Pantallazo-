@@ -137,6 +137,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Agr_Advertencia.resx">
+      <DependentUpon>Agr_Advertencia.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Pacientes.resx">
       <DependentUpon>Pacientes.vb</DependentUpon>
     </EmbeddedResource>

@@ -60,7 +60,6 @@ E:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Adve
 D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\bin\Debug\HNRG Administrador de turnos.exe
 D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\bin\Debug\HNRG Administrador de turnos.pdb
 D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\bin\Debug\HNRG Administrador de turnos.xml
-D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Clientes.resources
 D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.AdvertenciaEl.resources
 D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.inicio.resources
 D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
@@ -69,3 +68,5 @@ D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\obj\x86
 D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\obj\x86\Debug\HNRG Administrador de turnos.exe
 D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\obj\x86\Debug\HNRG Administrador de turnos.xml
 D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\obj\x86\Debug\HNRG Administrador de turnos.pdb
+D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Pacientes.resources
+D:\Nueva carpeta\Pantallazo-Analisis-main\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Agr_Advertencia.resources

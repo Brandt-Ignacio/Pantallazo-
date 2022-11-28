@@ -42,9 +42,9 @@ Partial Class Agr_Advertencia
         Me.AdverT.Font = New System.Drawing.Font("Arial", 8.0!)
         Me.AdverT.Location = New System.Drawing.Point(23, 38)
         Me.AdverT.Name = "AdverT"
-        Me.AdverT.Size = New System.Drawing.Size(158, 14)
+        Me.AdverT.Size = New System.Drawing.Size(160, 14)
         Me.AdverT.TabIndex = 1
-        Me.AdverT.Text = "Tiene que lenar todos los datos"
+        Me.AdverT.Text = "Tiene que llenar todos los datos"
         '
         'Agr_Advertencia
         '
